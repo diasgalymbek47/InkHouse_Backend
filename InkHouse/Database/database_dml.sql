@@ -1,0 +1,20 @@
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (1, 'Охота Амура', 'Марсель Руссо', 'Холст, масло (50х80)', 14500, 'Франция', 'http://localhost:5239/PictureImages/Охота_Амура.png');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (2, 'Дама с собачкой', 'Анри Селин', 'Акрил, бумага (50х80)', 16500, 'Франция', 'http://localhost:5239/PictureImages/Дама_с_собачкой.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (3, 'Процедура', 'Франсуа Дюпон', 'Цветная литография (40х60)', 20000, 'Франция', 'http://localhost:5239/PictureImages/Процедура.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (4, 'Роза', 'Луи Детуш', 'Бумага, акрил (50х80)', 12000, 'Франция', 'http://localhost:5239/PictureImages/Роза.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (5, 'Птичья трапеза', 'Франсуа Дюпон', 'Цветная литография (40х60)', 22500, 'Франция', 'http://localhost:5239/PictureImages/Птичья_трапеза.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (6, 'Пейзаж с рыбой', 'Пьер Моранж', 'Цветная литография (40х60)', 20000, 'Франция', 'http://localhost:5239/PictureImages/Пейзаж_с_рыбой.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (7, 'Над городом', 'Курт Вернер', 'Цветная литография (40х60)', 16000, 'Германия', 'http://localhost:5239/PictureImages/Над_городом.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (8, 'Птенцы', 'Макс Рихтер', 'Холст, масло (50х80)', 14500, 'Германия', 'http://localhost:5239/PictureImages/Птенцы.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (9, 'Среди листьев', 'Мартин Майер', 'Цветная литография (40х60)', 20000, 'Германия', 'http://localhost:5239/PictureImages/Среди_листьев.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (10, 'Яркая птица', 'Герман Беккер', 'Цветная литография (40х60)', 13000, 'Германия', 'http://localhost:5239/PictureImages/Яркая_птица.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (11, 'Дятлы', 'Вульф Бауэр', 'Бумага, акрил (50х80)', 20000, 'Германия', 'http://localhost:5239/PictureImages/Дятлы.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (12, 'Большие воды', 'Вальтер Хартманн', 'Бумага, акрил (50х80)', 23000, 'Германия', 'http://localhost:5239/PictureImages/Большие_воды.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (13, 'Дикий зверь', 'Пол Смит', 'Акварель, бумага (50х80)', 19500, 'Англия', 'http://localhost:5239/PictureImages/Дикий_зверь.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (14, 'Скалистый берег', 'Джон Уайт', 'Цветная литография (40х60)', 17500, 'Англия', 'http://localhost:5239/PictureImages/Скалистый_берег.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (15, 'Река и горы', 'Джим Уотсон', 'Акварель, бумага (50х80)', 20500, 'Англия', 'http://localhost:5239/PictureImages/Река_и_горы.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (16, 'Белый попугай', 'Юджин Зиллион', 'Цветная литография (40х60)', 15500, 'Англия', 'http://localhost:5239/PictureImages/Белый_попугай.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (17, 'Ночная рыба', 'Эрик Гиллман', 'Бумага, акрил (50х80)', 12500, 'Англия', 'http://localhost:5239/PictureImages/Ночная_рыба.jpg');
+INSERT INTO pictures (id, name, author, params, price, country, image) VALUES (18, 'Рыжий кот', 'Альфред Барр', 'Цветная литография (40х60)', 21000, 'Англия', 'http://localhost:5239/PictureImages/Рыжий_кот.jpg');
+
+INSERT INTO users (id, login, password) VALUES (1, 'diasgalymbek47@gmail.com', 'Mercedes_2002@');
